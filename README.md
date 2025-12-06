@@ -11,8 +11,11 @@
 
 ## Objectives
 •	Identify the MVP (most valuable player) of the 2025 season
+
 •	Identify the MIP (most improved player) of the 2025 season
+
 •	Identify the best possible lineup for the team in the 2025 season
+
 •	Analyze and reflect on the team’s performance in the 2025 season
 
 ## Methodology
