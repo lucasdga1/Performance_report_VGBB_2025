@@ -132,6 +132,7 @@ Season totals for Manuela Lacerda: 13 points scored, 31 rebounds, 6 assists, and
 Based on the calculated metrics and indicators, the athlete with the best overall performance in the season was Jasmin Santos with a total classification score of 13, followed by Laura Bonadio with 17
 Jasmin stood out for the consistency of her statistics and for achieving an average of 19 points of efficiency and 0.45 ORTG, demonstrating her importance to the team
 Laura stood out for averaging 5.9 PPG, with a 36% TS%, and 9.2 REB per game, being one of the team’s pillars
+
 Season totals for Jasmin Santos: 50 points scored, 46 rebounds, and 44 steals
 <img width="1123" height="828" alt="VGBB_MVP_25_dash" src="https://github.com/user-attachments/assets/7695b353-c71c-4f08-8c13-df481e8b2b5f" />
 
