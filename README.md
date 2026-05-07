@@ -1,9 +1,7 @@
 # Performance report of the Varsity Girls basketball program 2025
 ## Dashboards links:
 - <a href="https://lookerstudio.google.com/s/qYt1plyZkpQ">Team Offense Report</a>
-- <a href="https://lookerstudio.google.com/s/tvRGyTmwjMc">MIP Report</a>
-- <a href="https://lookerstudio.google.com/s/vbYveZbSDsM">MVP Report</a>
-- <a href="https://lookerstudio.google.com/s/ngAqyq6pyCc">Lineup Report</a>
+- <a href ="https://github.com/lucasdga1/Performance_report_VGBB_2025/tree/main/Performance_individual">Individual Performances</a>
 
 ## Dataset used
 - <a href="https://github.com/lucasdga1/Performance_report_VGBB_2025/blob/main/Dados%20VGBB25.xlsx">Player Data</a>
@@ -116,34 +114,42 @@ The studied team was compared with all opponents faced, and also according to in
 •	NETRTG (Net rating) = Net difference between OFFRTG and DEFRTG to assess overall team performance in points; given by: NETRTG=OFFRTG – DEFRTG
 
 ## MIP identification report
-Based on the calculated metrics and indicators, the athlete who demonstrated the greatest statistical growth was Manuela Lacerda, with a balanced increase across many analyzed metrics
+Based on the calculated metrics and indicators, the athlete who demonstrated the greatest statistical growth was Jog 10, with a balanced increase across many analyzed metrics
 She had an increase of 1 PPG between her first game and her season average, 3 rebounds per game, 7.50 points of efficiency, and 2.40 points in +/-. Her total summed improvement across the analyzed categories was 14.37 points
 
 Notable athletes who came close in the analysis:
 
-•	Isadora Carvalho: increase of +7.13 in +/- and +5.38 in efficiency, resulting in a summed score of 13.68, finishing second
+•	Jog 9: increase of +7.13 in +/- and +5.38 in efficiency, resulting in a summed score of 13.68, finishing second
 
-•	Laura Bonadio: third place with a summed score of 12.33, highlighted by an increase of +3.89 PPG
+•	Jog 5: third place with a summed score of 12.33, highlighted by an increase of +3.89 PPG
 
-Season totals for Manuela Lacerda: 13 points scored, 31 rebounds, 6 assists, and 34 steals
-<img width="1122" height="827" alt="VGBB_MIP_25_ash" src="https://github.com/user-attachments/assets/f74b0e23-0cd4-49cf-ac6c-8b61ec403302" />
+Season totals for Jog 10: 13 points scored, 31 rebounds, 6 assists, and 34 steals
+<img width="1649" height="990" alt="Gráfico MIP" src="https://github.com/user-attachments/assets/046abfcb-dd66-4cf1-9eaf-e955ec034944" />
+
 
 ## MVP identification report
-Based on the calculated metrics and indicators, the athlete with the best overall performance in the season was Jasmin Santos with a total classification score of 13, followed by Laura Bonadio with 17
-Jasmin stood out for the consistency of her statistics and for achieving an average of 19 points of efficiency and 0.45 ORTG, demonstrating her importance to the team
-Laura stood out for averaging 5.9 PPG, with a 36% TS%, and 9.2 REB per game, being one of the team’s pillars
+Based on the calculated metrics and indicators, the athlete with the best overall performance in the season was Jog 4 with a total classification score of 13, followed by Jog 5 with 17
+Jog 4 stood out for the consistency of her statistics and for achieving an average of 19 points of efficiency and 0.45 ORTG, demonstrating her importance to the team
+Jog 5 stood out for averaging 5.9 PPG, with a 36% TS%, and 9.2 REB per game, being one of the team’s pillars
 
-Season totals for Jasmin Santos: 50 points scored, 46 rebounds, and 44 steals
-<img width="1123" height="828" alt="VGBB_MVP_25_dash" src="https://github.com/user-attachments/assets/7695b353-c71c-4f08-8c13-df481e8b2b5f" />
+Season totals for Jog 4: 50 points scored, 46 rebounds, and 44 steals
+<img width="1653" height="993" alt="MVP_Gráfico" src="https://github.com/user-attachments/assets/c8df1a32-00fc-4484-b8a0-34cd5d4d43cf" />
+
 
 ## Best lineup identification report
-After testing several formations, both used and unused during the season, the most outstanding lineup was the third lineup composed of Isadora, Jasmin, Laura, Manuela Lacerda, and Rosa. This lineup achieved a strong overall average across metrics, with a special highlight for an average of 1.36 PTS/POSS, showing good offensive performance
+After testing several formations, both used and unused during the season, the most outstanding lineup was the third lineup composed of Jog 4, Jog 9, Jog 10, Jog 12, Jog 5. This lineup achieved a strong overall average across metrics, with a special highlight for an average of 1.36 PTS/POSS, showing good offensive performance
 The second place in the test was shared between two formations:
 
-•	Lineup 2: Beatriz, Isadora, Jasmin, Laura, and Manuela Lacerda; notable for high PPG production (18.5) but with a high average of turnovers per game (34.8)
+•	Lineup 2: Jog 4, Jog 9, Jog 7, Jog 10, Jog 5; notable for high PPG production (18.5) but with a high average of turnovers per game (34.8)
 
-•	Lineup 6: Jasmin, Laura, Manuela, Rosa, and Tess; had the lowest total turnovers, which may be explained by Tess having limited minutes and, like Rosa, not having many offensive touches during games
-<img width="1122" height="827" alt="VGBB_Lineup_Dash" src="https://github.com/user-attachments/assets/cf3e26e0-f415-4d83-9104-0ba0ea586f64" />
+•	Lineup 6: Jog 4, Jog 10, Jog 12, Jog 5, Jog 11; had the lowest total turnovers, which may be explained by Tess having limited minutes and, like Rosa, not having many offensive touches during games
+<img width="1653" height="993" alt="Lineup1_área" src="https://github.com/user-attachments/assets/3dca96cd-ffc9-4dee-9a2d-ed78104ec3bf" />
+<img width="1653" height="993" alt="Lineup2_área" src="https://github.com/user-attachments/assets/bcdf4c29-b367-448f-8d5c-9ac776466e90" />
+<img width="1653" height="993" alt="Lineup3_área" src="https://github.com/user-attachments/assets/a2a767a5-216a-4f9f-8273-53f35d272d96" />
+<img width="1653" height="993" alt="Lineup4_área" src="https://github.com/user-attachments/assets/592fb8e9-a6f5-4acb-a5f3-cbe9ce013e71" />
+<img width="1653" height="993" alt="Lineup5_área" src="https://github.com/user-attachments/assets/38f268d1-6b7e-4d96-9edc-cd9dd6f39d15" />
+<img width="1653" height="993" alt="Lineup6_área" src="https://github.com/user-attachments/assets/88cbfaa0-9d60-4088-8f46-dc8cb0ab85af" />
+
 
 ## Team performance report
 After compilation, cleaning, and processing of the data, both EAB and the opponent teams were ranked according to their performances in the indicators. The best performances were from Graded and Chapel, which stood out in PPG, TO/POSS, REB, and OFFRTG. This reinforces the general idea that teams with the highest chance of winning are those with higher shot volume, fewer turnovers, more rebounds, and more free-throw attempts
